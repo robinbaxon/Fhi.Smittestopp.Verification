@@ -8,7 +8,7 @@ You can launch the web application through the `dotnet run` command from the `Fh
 
 ### Libraries and Frameworks
 
-This application makes use of a number of libraries and frameworks that one would need to be familiar with when developing it further.
+This application makes use of several libraries and frameworks that one would need to be familiar with when developing it further.
 
 - [IdentityServer](https://identityserver4.readthedocs.io/en/latest/): OpenID Connect and OAuth 2.0 framework
 - [MediatR](https://github.com/jbogard/MediatR): Simple mediator for messages and message handlers (IRequest and IRequestHandler)
